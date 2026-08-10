@@ -15,8 +15,6 @@ Previous GitHubs used to host Conservancy code that are no longer in use include
 - [`parksconservancy`](https://github.com/parksconservancy) 2020-2022
 - [`parks-conservancy`](https://github.com/parks-conservancy) 2013-2015
 
-## Repository Structure
-
 
 ## Contact
 
